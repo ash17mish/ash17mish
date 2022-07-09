@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ash17mish
 - 👀 I’m interested in ...entering the corporate world...
 - 🌱 I’m currently learning ...AI and ML
-- 💞️ I have mastered python programming  ,C++,Data structures and I have also learnt Java,HTML,Javascript
+- 💞️ I have mastered python programming  ,C++,Data structures and I have also learnt Java,HTML,Javascript.....
     I have made ML and web app projects
-    something personal about me....I love working out .....I m an advance gymmer who knows calesthenics
+    ............something personal about me....I love working out .....I m an advance gymmer who knows calesthenics
 - 📫 How to reach me ...email - am2327@srmist.edu.in
 
 <!---
